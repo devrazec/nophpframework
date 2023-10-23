@@ -1,0 +1,22 @@
+{
+    "name": "devrazec/nophpframework",
+    "type": "project",
+    "description": "NoPhpFramework is an application developed in PHP without using a PHP Framework.",
+    "keywords": [
+        "NoPhpFramework",
+        "Modern PHP"
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cezar Souza",
+            "email": "maxchip@outlook.com"
+        }
+    ],
+    "require": {}
+}
